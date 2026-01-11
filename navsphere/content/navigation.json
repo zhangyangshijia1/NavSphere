@@ -2,7 +2,7 @@
   "navigationItems": [
     {
       "id": "1",
-      "title": "常用推荐",
+      "title": "SmallHao自用",
       "icon": "Star",
       "items": [
         {
@@ -17,7 +17,7 @@
           "id": "1_1",
           "title": "github",
           "href": "https://github.com/",
-          "description": "Join the world&#39;s most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.。",
+          "description": "GitHub",
           "icon": "https://github.com/fluidicon.png",
           "enabled": true
         },
@@ -39,34 +39,34 @@
         },
         {
           "id": "1_5",
-          "title": "Producthunt",
-          "href": "https://www.producthunt.com/",
-          "description": "发现新鲜有趣的产品",
-          "icon": "/assets/images/logos/producthunt.webp",
+          "title": "youtube",
+          "href": "https://www.youtube.com/",
+          "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
+          "icon": "https://www.youtube.com/s/desktop/5d0caf43/img/favicon_48x48.png",
           "enabled": true
         },
         {
           "id": "1_6",
-          "title": "Leonardo.AI",
-          "href": "https://app.leonardo.ai/",
-          "description": "Leonardo.AI是一个人工智能绘图社区和工具。它基于Stable Diffusion人工智能模型,深度集成了其各种插件,提供强大的图片生成和创作功能。",
-          "icon": "/assets/images/logos/leonardo.webp",
+          "title": "Gmail",
+          "href": "https://mail.google.com/",
+          "description": "Gmail 是一款直观、高效且实用的邮件应用。免费提供 15 GB 存储空间，具备出色的垃圾邮件过滤功能，而且支持移动访问。",
+          "icon": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico",
           "enabled": true
         },
         {
           "id": "1_7",
-          "title": "Tensor.art",
-          "href": "https://tensor.art/",
-          "description": "Tensor.art是一个免费的在线图像生成和模型托管平台。",
-          "icon": "/assets/images/logos/tensorart.webp",
+          "title": "微信文件传输助手网页版",
+          "href": "https://filehelper.weixin.qq.com/",
+          "description": "使用文件传输助手，手机电脑轻松互传文件。",
+          "icon": "https://res.wx.qq.com/a/wx_fed/assets/res/OTE0YTAw.png",
           "enabled": true
         },
         {
           "id": "1735119857233",
-          "title": "截图美化工具",
-          "href": "https://shots.so/",
-          "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
-          "icon": "/assets/images/logos/shots.webp",
+          "title": "ClawCloud",
+          "href": "https://ap-northeast-1.run.claw.cloud/signin",
+          "description": "ClawCloud爪云服务器",
+          "icon": "https://ap-northeast-1.run.claw.cloud/icons/favicon-32x32.png",
           "enabled": true
         },
         {
