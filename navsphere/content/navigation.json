@@ -15,10 +15,10 @@
         },
         {
           "id": "1_1",
-          "title": "Google Analytics",
-          "href": "https://analytics.google.com/",
-          "description": "Google分析（Google Analytics）是一个由Google所提供的网站流量统计服务。",
-          "icon": "/assets/images/logos/analytics.webp",
+          "title": "github",
+          "href": "https://github.com/",
+          "description": "Join the world&#39;s most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.。",
+          "icon": "https://github.com/fluidicon.png",
           "enabled": true
         },
         {
@@ -31,10 +31,10 @@
         },
         {
           "id": "1_4",
-          "title": "Google AdSense",
-          "href": "https://www.google.com/adsense/",
-          "description": "Google AdSense广告服务。",
-          "icon": "/assets/images/logos/gads.webp",
+          "title": "Free DNS hosting, Cloud DNS hosting and Domain names | ClouDNS",
+          "href": "https://www.cloudns.net/",
+          "description": "ClouDNS provides Free DNS, Cloud DNS, Managed DNS, GeoDNS and DDoS Protected DNS hosting with included web redirects, mail forwards and Round-Robin load balancing. Instant updates in Europe, North and South America, Asia and Australia.",
+          "icon": "https://www.cloudns.net/i/apple-touch-icon.png",
           "enabled": true
         },
         {
